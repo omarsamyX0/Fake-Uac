@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{ED587A3D-9C33-4907-8B2A-41DA441A4720}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM32 = Debug|ARM32
+		Release|Any CPU = Release|Any CPU
+		Release|ARM32 = Release|ARM32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED587A3D-9C33-4907-8B2A-41DA441A4720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED587A3D-9C33-4907-8B2A-41DA441A4720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED587A3D-9C33-4907-8B2A-41DA441A4720}.Debug|ARM32.ActiveCfg = Debug|ARM32
+		{ED587A3D-9C33-4907-8B2A-41DA441A4720}.Debug|ARM32.Build.0 = Debug|ARM32
+		{ED587A3D-9C33-4907-8B2A-41DA441A4720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED587A3D-9C33-4907-8B2A-41DA441A4720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED587A3D-9C33-4907-8B2A-41DA441A4720}.Release|ARM32.ActiveCfg = Release|ARM32
+		{ED587A3D-9C33-4907-8B2A-41DA441A4720}.Release|ARM32.Build.0 = Release|ARM32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4D3E205-EF47-4C98-82CB-15D0F0C6A353}
+	EndGlobalSection
+EndGlobal

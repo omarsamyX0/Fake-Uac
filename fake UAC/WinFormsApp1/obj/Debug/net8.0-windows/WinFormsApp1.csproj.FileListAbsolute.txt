@@ -1,0 +1,54 @@
+C:\Users\OMAR\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\OMAR\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\OMAR\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\OMAR\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\OMAR\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\OMAR\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\OMAR\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\OMAR\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMAR\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\OMAR\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\OMAR\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\OMAR\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\OMAR\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\OMAR\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\OMAR\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\OMAR\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\OMAR\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\OMAR\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\OMAR\Downloads\fake UAC\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\OMAR\Downloads\fake UAC\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\OMAR\Downloads\fake UAC\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\OMAR\Downloads\fake UAC\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\OMAR\Downloads\fake UAC\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\OMAR\Downloads\fake UAC\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\OMAR\Downloads\fake UAC\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+C:\Users\OMAR\Downloads\fake UAC\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\OMAR\Downloads\fake UAC\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\OMAR\Downloads\fake UAC\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMAR\Downloads\fake UAC\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\OMAR\Downloads\fake UAC\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\OMAR\Downloads\fake UAC\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\OMAR\Downloads\fake UAC\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\OMAR\Downloads\fake UAC\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\OMAR\Downloads\fake UAC\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\OMAR\Downloads\fake UAC\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\OMAR\Downloads\fake UAC\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\Courses\OSs\Linux\Assets\tools\Folders\fake UAC\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\Courses\OSs\Linux\Assets\tools\Folders\fake UAC\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\Courses\OSs\Linux\Assets\tools\Folders\fake UAC\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\Courses\OSs\Linux\Assets\tools\Folders\fake UAC\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\Courses\OSs\Linux\Assets\tools\Folders\fake UAC\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\Courses\OSs\Linux\Assets\tools\Folders\fake UAC\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+E:\Courses\OSs\Linux\Assets\tools\Folders\fake UAC\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form2.resources
+E:\Courses\OSs\Linux\Assets\tools\Folders\fake UAC\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+E:\Courses\OSs\Linux\Assets\tools\Folders\fake UAC\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\Courses\OSs\Linux\Assets\tools\Folders\fake UAC\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\OSs\Linux\Assets\tools\Folders\fake UAC\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\Courses\OSs\Linux\Assets\tools\Folders\fake UAC\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\Courses\OSs\Linux\Assets\tools\Folders\fake UAC\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\Courses\OSs\Linux\Assets\tools\Folders\fake UAC\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\Courses\OSs\Linux\Assets\tools\Folders\fake UAC\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\Courses\OSs\Linux\Assets\tools\Folders\fake UAC\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\Courses\OSs\Linux\Assets\tools\Folders\fake UAC\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\Courses\OSs\Linux\Assets\tools\Folders\fake UAC\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
